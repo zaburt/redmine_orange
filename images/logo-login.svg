@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="130" viewBox="0 0 410 130">
+  <path d="M58 28 C58 22 60 18 64 15" stroke="#7A3E00" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M60 22 C68 12 80 12 86 18 C78 26 68 28 60 22 Z" fill="#1F9D55"/>
+  <circle cx="58" cy="68" r="38" fill="#FFB300"/>
+  <circle cx="58" cy="68" r="30" fill="#FF6A00"/>
+  <path d="M58 40 L58 96 M30 68 L86 68" stroke="#FFFFFF" stroke-width="2" opacity="0.6"/>
+  <ellipse cx="46" cy="54" rx="6" ry="10" fill="#FFFFFF" opacity="0.5" transform="rotate(25 46 54)"/>
+
+  <text x="112" y="78" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="46" font-weight="700"
+        fill="#E04E00">Orange</text>
+  <text x="113" y="100" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="14" letter-spacing="3"
+        fill="#0B8A94">REDMINE THEME</text>
+</svg>
